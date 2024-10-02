@@ -2,7 +2,7 @@
 
 How to mod DTB
 
-    wget https://github.com/andri-cyber/DTB_Armbian-5.3.0_Mod_HG680P/blob/main/hg680p_mod.dtb
+    wget https://github.com/andri-cyber/DTB_Armbian-5.3.0_Mod_HG680P/raw/refs/heads/main/hg680p_mod.dtb
     
     sudo cp hg680p_mod.dtb /boot/dtb/
     cd /boot/
